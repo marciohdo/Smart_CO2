@@ -1,7 +1,5 @@
-# Smart_CO2
-We are a carbon credit transaction (buy and sell) Dapp using Blockchain
-
 # Smart CO2 - Carbon Credits Platform
+We are a carbon credit transaction (buy and sell) Dapp using Blockchain
 
 The **Smart CO2** platform is an innovative solution for buying, selling, and managing carbon credits, using blockchain technology to ensure secure and transparent transactions. The interface allows users to conduct safe and trackable transactions, tokenizing carbon credits and storing them in a digital wallet.
 
